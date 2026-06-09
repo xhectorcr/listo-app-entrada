@@ -1,1 +1,0 @@
-"que sea simple, como una calculadora, en donde se pueda ingresar el numero y ver que numero estas poniendo, nada más"
