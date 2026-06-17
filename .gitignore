@@ -1,0 +1,80 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+/.pnp/
+.pnp.js
+
+# Build outputs
+dist/
+build/
+out/
+tmp/
+temp/
+
+# Capacitor / Android
+android/.gradle/
+android/captures/
+android/build/
+android/app/build/
+android/local.properties
+android/assets/www/
+
+# Gradle
+.gradle/
+**/build/
+
+# Android Studio
+.idea/
+*.iml
+captures/
+externalNativeBuild/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Keystore files (signing)
+*.keystore
+*.jks
+*.keystore.*
+
+# Misc
+npm-debug.log*
+yarn-debug.log*
+# Dependencias de Node
+node_modules/
+
+# Directorios de compilación de Electron Builder
+dist/
+dist-*/
+
+# Variables de entorno
+.env
+
+# Logs de NPM/Yarn
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de SO
+.DS_Store
+Thumbs.db
